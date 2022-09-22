@@ -1,0 +1,73 @@
+
+.cate {
+    align-items: center;
+}
+.button{
+    align-items: center;
+
+}
+.Contact .Form{
+    text-align: center;
+}
+.Contact .Send{
+    margin-top: 30px;
+    text-align: center;
+}
+.Logo2{
+    margin-top: 60px;
+    align-items: center;
+ }
+ .column {
+     width: 33.33%;
+     padding: 5px;
+   }
+   .Logo2 .center {
+     display: block;
+     margin-left: 688px;
+     margin-right: auto;
+     margin-bottom: auto;
+     width: 10%;
+   }
+   .categories{
+    color: blanchedalmond;
+    text-align: center;
+    margin-bottom: 10px;
+
+   }
+   .container-fluid {
+    text-align: center;
+
+   }
+.card-img-top1{
+    width: 100%;
+    height: 300px;
+}
+.card-img-top2{
+    width: 100%;
+    height: 300px;
+}
+
+.card-img-top3{
+    width: 100%;
+    height: 325px;
+}
+
+.card-img-top4{
+    width: 100%;
+    height: 325px;
+}
+p.b{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.imouge{
+    margin-bottom: 50px;
+}
+.other{
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+   

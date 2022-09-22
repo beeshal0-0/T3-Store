@@ -1,0 +1,44 @@
+
+nav{
+    display: flex;
+}
+.ab{
+    float: left;
+    margin-bottom: 120px;
+}
+nav ul{
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    padding:0 30px;
+    float: inline-start;
+    text-align: center;
+}
+.advert {
+   align-items: center;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.signup{
+    width: 140px;
+    height: 38px;
+    background-color: firebrick;
+    color: antiquewhite;
+    border:30px;
+  }
+.categories{
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+    align-items: center;
+}
+
+
+
